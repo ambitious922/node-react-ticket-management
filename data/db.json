@@ -1,0 +1,44 @@
+{
+  "pages": [
+    {
+      "title": "This is the start of a page1",
+      "details": "The page contents go here",
+      "category": "reminders",
+      "id": 1,
+      "x": 100,
+      "y": 900
+    },
+    {
+      "title": "This is the start of a page2",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
+      "category": "work",
+      "id": 2,
+      "x": 500,
+      "y": 150
+    },
+    {
+      "title": "This is the start of a page3",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "todos",
+      "id": 3,
+      "x": 800,
+      "y": 400
+    },
+    {
+      "title": "This is the start of a page4",
+      "details": "Yep yep yep",
+      "category": "work",
+      "id": 5,
+      "x": 10,
+      "y": 3000
+    },
+    {
+      "title": "Colour test6",
+      "details": "this",
+      "category": "work",
+      "id": 7,
+      "x": 220,
+      "y": 398
+    }
+  ]
+}
